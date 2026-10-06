@@ -1,0 +1,5 @@
+moviepy>=2.0
+pillow>=10.1
+numpy
+requests
+yt-dlp

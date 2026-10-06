@@ -1,0 +1,22 @@
+# Generated output
+output_songs/
+temp_work/
+*.mp4
+*.m4a
+*.webm
+*.mp3
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
